@@ -42,7 +42,7 @@ CodeBlog App is a comprehensive application designed to facilitate the creation 
 - Variables such as `blog_content`, `related_topics`, `related_blog_content`, `show_more`, `show_code`, `code_content`, and `more_content` are used to store and display the generated content and user actions.
 
 ## Objective
-The primary objective of the TCBlog App is to simplify the blog writing process by leveraging AI to generate high-quality, informative, and engaging content. The app is designed to cater to bloggers, content creators, and businesses looking to streamline their content creation process, saving time and effort.
+The primary objective of the CodeBlog App is to simplify the blog writing process by leveraging AI to generate high-quality, informative, and engaging content. The app is designed to cater to bloggers, content creators, and businesses looking to streamline their content creation process, saving time and effort.
 
 ## Features
 1. **Blog Generation**:
