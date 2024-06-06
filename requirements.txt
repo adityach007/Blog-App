@@ -1,5 +1,2 @@
-python == 3.9
-streamlit 
-google-generativeai
-requests
-json
+google-generativeai == 0.4.1
+streamlit == 1.35.0
