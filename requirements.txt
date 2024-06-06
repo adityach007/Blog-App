@@ -1,4 +1,4 @@
-python < 3.5
+python == 3.9
 streamlit 
 google-generativeai
 requests
